@@ -1,10 +1,18 @@
 @font-face {
     font-family: TT Lakes;
     src: url(fonts/TT\ Lakes\ Bold.woff) format(woff),
-        url(fonts/TT\ Lakes\ Bold.woff2) format(woff2),
-        url(fonts/TT\ Lakes\ Medium.woff) format(woff),
-        url(fonts/TT\ Lakes\ Medium.woff2) format(woff2),
-        url(fonts/TT\ Lakes\ Regular.woff) format(woff),
+        url(fonts/TT\ Lakes\ Bold.woff2) format(woff2);
+}
+
+@font-face {
+    font-family: TT Lakes;
+    src: url(fonts/TT\ Lakes\ Medium.woff) format(woff),
+        url(fonts/TT\ Lakes\ Medium.woff2) format(woff2);
+}
+
+@font-face {
+    font-family: TT Lakes;
+    src: url(fonts/TT\ Lakes\ Regular.woff) format(woff),
         url(fonts/TT\ Lakes\ Regular.woff2) format(woff2);
 }
 
